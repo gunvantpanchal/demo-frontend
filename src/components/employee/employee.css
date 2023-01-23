@@ -1,0 +1,23 @@
+.title_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.input_field{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.form_data{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+.buttons{
+    display: flex;
+    gap: 10px
+}
+.ant-input{
+    width: 400px;
+}
